@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/tecbeast42/laravel-wait-ci/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/tecbeast42/laravel-wait-ci/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/tecbeast42/laravel-wait-ci.svg?style=flat-square)](https://packagist.org/packages/tecbeast42/laravel-wait-ci)
 
-<img src="./logo.png" alt="Logo laravel wait ci" style="max-height: 250px;">
+<img src="./logo.png" alt="Logo laravel wait ci" height="200">
 
 Artisan command to wait for your storage and database to be reachable in ci
 
