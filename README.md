@@ -16,7 +16,7 @@ You can use option parameter with a comma seperatet list for database (`--db-con
 You can install the package via composer:
 
 ```bash
-composer require tecbeast42/laravel-wait-ci
+composer require --dev tecbeast42/laravel-wait-ci
 ```
 
 ## Usage
