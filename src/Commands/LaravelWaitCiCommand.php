@@ -66,7 +66,7 @@ class LaravelWaitCiCommand extends Command
                 }
             }
 
-            if (!in_array(false, $storageReached, true) && !in_array(false, $databaseReached, true)) {
+            if (! in_array(false, $storageReached, true) && ! in_array(false, $databaseReached, true)) {
                 return 0;
             }
         }
